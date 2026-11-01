@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Asif 👋
 
-<!--
-**asif420570/asif420570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an aspiring **Cloud Engineer** currently on an exciting journey following the Learn to Cloud roadmap. I love building practical projects, automating things, and exploring modern cloud architectures.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently learning and practicing **Cloud Engineering**.
+- 💻 I have hands-on experience working on various field projects (including web scrapers and web apps).
+- 🌱 Always exploring new ways to level up my system administration and cloud skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages & Scripting:** Python, JavaScript, Bash
+- **Automation & Scraping:** Playwright, Selenium
+- **Tools & Platforms:** Git, GitHub, Linux (Ubuntu/WSL), Cloud Environments
+
+---
+*⚡ "Always learning, building, and deploying."*
